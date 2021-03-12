@@ -2,7 +2,7 @@
 var asmEggsemblyConverter = {	
 	asmEggsemblyMap : { exit: "axe", 
 						substract: "fox", 
-						multiply: "rootster", 
+						multiply: "rooster", 
 						load: "pick", 
 						store: "peck", 
 						jump: "fr", 
